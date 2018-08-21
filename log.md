@@ -17,7 +17,7 @@
 
 **Examples**:
 
-**Link to work**: will Provide soon
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
 
 [Table of Contents](#toc)
 
@@ -33,7 +33,7 @@
 
 **Examples**:
 
-**Link to work**: will Provide soon
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
 
 [Table of Contents](#toc)
 
