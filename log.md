@@ -3,7 +3,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **18/08/18**|JavaScript Operators|[Day 2](#day-2) **20/08/18**|if/else statement, switch case statement, Function statement and expression and Array in JavaScript|
+|[Day 1](#day-1) **18/08/18**|JavaScript Operators|[Day 2](#day-2) **20/08/18**|if/else statement, switch case statement, Function statement and expression and Array in JavaScript|[Day 3](#day-3) **21/08/18**|Loops and Iteration,Objects and Methods #javascript|
 
 ----------
 <a name="day-1"></a>
@@ -36,4 +36,20 @@
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
 
 [Table of Contents](#toc)
+
+----------
+<a name="day-3"></a>
+### Day 3: August 21, 2018 
+
+**Today's Focus**: started working on Loops and Iteration,Objects and Methods in javascript
+
+**Details**:
+
+ Did a small coding challenge based on Loops and Iteration,Objects and Methods in javascript
+**Examples**:
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
+
+[Table of Contents](#toc)
+
 
