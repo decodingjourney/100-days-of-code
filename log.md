@@ -22,7 +22,7 @@
 [Table of Contents](#toc)
 
 ----------
-<a name="day-1"></a>
+<a name="day-2"></a>
 ### Day 2: August 20, 2018 
 
 **Today's Focus**: Started working on if/else statement, switch case statement, Function statement and expression and Array in JavaScript
