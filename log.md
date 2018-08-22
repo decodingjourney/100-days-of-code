@@ -17,7 +17,7 @@
 
 **Examples**:
 
-**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/coding-decoding-javascript/)
 
 [Table of Contents](#toc)
 
@@ -33,7 +33,7 @@
 
 **Examples**:
 
-**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/coding-decoding-javascript/)
 
 [Table of Contents](#toc)
 
@@ -48,7 +48,7 @@
  Did a small coding challenge based on Loops and Iteration,Objects and Methods in javascript
 **Examples**:
 
-**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/coding-decoding-javascript/)
 
 [Table of Contents](#toc)
 
@@ -62,7 +62,7 @@
 It was more of Theory and less coding but i wanted to learn how actually Javascript code works internally
 **Examples**:
 
-**Link to work**: [MyGithubProject](https://github.com/decodingjourney/complete-javascript-course/)
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/coding-decoding-javascript/)
 
 [Table of Contents](#toc)
 
