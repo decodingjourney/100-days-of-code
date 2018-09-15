@@ -6,6 +6,7 @@
 |[Day 1](#day-1) **18/08/18**|JavaScript Operators|[Day 2](#day-2) **20/08/18**|if/else statement, switch case statement, Function statement and expression and Array in JavaScript|
 [Day 3](#day-3) **21/08/18**|Loops and Iteration,Objects and Methods #javascript|[Day 4](#day-4) **22/08/18**|How Javascript internally works, Hoisting, Global Execution Context vs Local Context,differece between execution stack and scope chain|
 [Day 5](#day-5) **07/09/18**|DOM, Event and EventHandling in JavaScript|[Day 6](#day-6) **08/09/18**|Implemented document functions in JavaScript|
+[Day 7](#day-7) **15/09/18**|Playing around with the functions and EventHandling in #javascript|
 ----------
 <a name="day-1"></a>
 ### Day 1: August 18, 2018 
@@ -89,6 +90,20 @@ DOM Access and Manipulation, Event and EventHandling in JavaScript. Currently wo
 
 **Details**:
 Implemented document functions in JavaScript in my current Dice Game.
+**Examples**:
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-7"></a>
+### Day 7: September 15, 2018 
+
+**Today's Focus**: Playing around with functions and EventHandling in Javascript to complete my ongoing Gaming Project.
+
+**Details**:
+Playing around with functions and EventHandling in Javascript to complete my ongoing Gaming Project.
 **Examples**:
 
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
