@@ -7,6 +7,7 @@
 [Day 3](#day-3) **21/08/18**|Loops and Iteration,Objects and Methods #javascript|[Day 4](#day-4) **22/08/18**|How Javascript internally works, Hoisting, Global Execution Context vs Local Context,differece between execution stack and scope chain|
 [Day 5](#day-5) **07/09/18**|DOM, Event and EventHandling in JavaScript|[Day 6](#day-6) **08/09/18**|Implemented document functions in JavaScript|
 [Day 7](#day-7) **15/09/18**|Playing around with the functions and EventHandling in #javascript|[Day 8](#day-8) **19/09/18**|Learnt and implemented Objects and functions, Inheritance and Prototype chain in #javascript. working on yet another small javascript project|
+[Day 9](#day-9) **23/09/18**|Playing around with the Objects and functions in #javascript|[Day 10](#day-10) **24/09/18**|Playing around with the Objects and functions in #javascript|
 ----------
 <a name="day-1"></a>
 ### Day 1: August 18, 2018 
@@ -117,6 +118,30 @@ Playing around with functions and EventHandling in Javascript to complete my ong
 **Today's Focus**: Learnt and implemented Objects and functions, Inheritance and Prototype chain in #javascript. working on yet another small javascript project
 **Details**:
 Learnt and implemented Objects and functions, Inheritance and Prototype chain in #javascript. working on yet another small javascript project
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-9"></a>
+### Day 9: September 23, 2018 
+
+**Today's Focus**: Learnt and implemented Objects and functions, working on yet another small javascript project
+**Details**:
+Learnt and implemented Objects and functions,working on yet another small javascript project
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-10"></a>
+### Day 10: September 24, 2018 
+
+**Today's Focus**: Learnt and implemented Objects and functions,Passing functions as an argument, returning functions from functions #javascript. working on yet another small javascript project
+**Details**:
+Learnt and implemented Objects and functions, Passing functions as an argument, returning functions from functions #javascript. working on yet another small javascript project
 
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
 
