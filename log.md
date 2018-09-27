@@ -161,7 +161,7 @@ Implemented IIFE, Closures, call, apply and bind concept in my current #javascri
 [Table of Contents](#toc)
 
 ----------
-<a name="day-11"></a>
+<a name="day-12"></a>
 ### Day 12: September 27, 2018 
 
 **Today's Focus**: Implementing all the advanced features in #javascript like IIFE, Closures, function constructors, array as an objects to one small gaming project "QUIZ Game".
