@@ -9,7 +9,7 @@
 [Day 7](#day-7) **15/09/18**|Playing around with the functions and EventHandling in #javascript|[Day 8](#day-8) **19/09/18**|Learnt and implemented Objects and functions, Inheritance and Prototype chain in #javascript. working on yet another small javascript project|
 [Day 9](#day-9) **23/09/18**|Playing around with the Objects and functions in #javascript|[Day 10](#day-10) **24/09/18**|Playing around with the Objects and functions in #javascript|
 [Day 11](#day-11) **26/09/18**|Implemented IIFE, Closures, call, apply and bind concept in my current #javascript project.|[Day 12](#day-12) **27/09/18**|Implementing all the advanced features in #javascript like IIFE, Closures, function constructors, array as an objects to one small gaming project "QUIZ Game".|
-[Day 13](#day-13) **08/10/18**|Implemented Modular pattern to my Budgetry project which i am developing in #javascript.|
+[Day 13](#day-13) **08/10/18**|Implemented Modular pattern to my Budgetry project which i am developing in #javascript.|[Day 14](#day-14) **09/10/18**|Implemented setting up first event listners and reading input data in the project which i am developing in #javascript.|
 ----------
 <a name="day-1"></a>
 ### Day 1: August 18, 2018 
@@ -184,5 +184,20 @@ Implementing Modular Pattern to my new Javascript Budgety Project.
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
 
 [Table of Contents](#toc)
+
+----------
+<a name="day-14"></a>
+### Day 14: October 09, 2018 
+
+**Today's Focus**: Implemented setting up first event listners and reading input data in the project which i am developing in #javascript.
+**Details**:
+Implemented setting up first event listners and reading input data in the project which i am developing in #javascript.
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+
+
 
 
