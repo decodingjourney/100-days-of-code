@@ -10,7 +10,8 @@
 [Day 9](#day-9) **23/09/18**|Playing around with the Objects and functions in #javascript|[Day 10](#day-10) **24/09/18**|Playing around with the Objects and functions in #javascript|
 [Day 11](#day-11) **26/09/18**|Implemented IIFE, Closures, call, apply and bind concept in my current #javascript project.|[Day 12](#day-12) **27/09/18**|Implementing all the advanced features in #javascript like IIFE, Closures, function constructors, array as an objects to one small gaming project "QUIZ Game".|
 [Day 13](#day-13) **08/10/18**|Implemented Modular pattern to my Budgetry project which i am developing in #javascript.|[Day 14](#day-14) **09/10/18**|Implemented setting up first event listners and reading input data in the project which i am developing in #javascript.|
-[Day 15](#day-15) **10/10/18**|Implemented Intermodular communication to my Budgetry project which i am developing in #javascript.|
+[Day 15](#day-15) **10/10/18**|Implemented Intermodular communication to my Budgetry project which i am developing in #javascript.|[Day 16](#day-16) **11/10/18**|Implemented technique for adding big chunks of HTML into the DOM in my Budgetry project which i am developing in #javascript. Learnt how to replace part of the string and DOM Manipulation using the insertAdjacentHTML Method|
+[Day 17](#day-17) **12/10/18**|Implemented how to clear HTML Fields, how to use querySelectorAll, how to conver a list to an array, A better way to loop over an array than for loop,how to conver fields input to numbers, how to prevent false inputs in my Budgetry project which i am developing in #javascript.|
 ----------
 <a name="day-1"></a>
 ### Day 1: August 18, 2018 
@@ -206,6 +207,29 @@ Implemented setting up first event listners and reading input data in the projec
 **Details**:
 Implemented inter modular communication to the  project which i am developing in #javascript.
 
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-16"></a>
+### Day 16: October 11, 2018 
+
+**Today's Focus**: Implemented technique for adding big chunks of HTML into the DOM in my Budgetry project which i am developing in #javascript. Learnt how to replace part of the string and DOM Manipulation using the insertAdjacentHTML Method
+**Details**:
+Implemented technique for adding big chunks of HTML into the DOM in my Budgetry project which i am developing in #javascript. Learnt how to replace part of the string and DOM Manipulation using the insertAdjacentHTML Method
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-17"></a>
+### Day 17: October 12, 2018 
+
+**Today's Focus**: Implemented how to clear HTML Fields, how to use querySelectorAll, how to conver a list to an array, A better way to loop over an array than for loop,how to conver fields input to numbers, how to prevent false inputs in my Budgetry project which i am developing in #javascript.
+**Details**:
+Implemented how to clear HTML Fields, how to use querySelectorAll, how to conver a list to an array, A better way to loop over an array than for loop. how to conver fields input to numbers, how to prevent false inputs in my Budgetry project which i am developing in #javascript.
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/LearnToCodeJavaScript/)
 
 [Table of Contents](#toc)
