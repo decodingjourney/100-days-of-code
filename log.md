@@ -12,6 +12,7 @@
 [Day 13](#day-13) **08/10/18**|Implemented Modular pattern to my Budgetry project which i am developing in #javascript.|[Day 14](#day-14) **09/10/18**|Implemented setting up first event listners and reading input data in the project which i am developing in #javascript.|
 [Day 15](#day-15) **10/10/18**|Implemented Intermodular communication to my Budgetry project which i am developing in #javascript.|[Day 16](#day-16) **11/10/18**|Implemented technique for adding big chunks of HTML into the DOM in my Budgetry project which i am developing in #javascript. Learnt how to replace part of the string and DOM Manipulation using the insertAdjacentHTML Method|
 [Day 17](#day-17) **12/10/18**|Implemented how to clear HTML Fields, how to use querySelectorAll, how to conver a list to an array, A better way to loop over an array than for loop,how to conver fields input to numbers, how to prevent false inputs in my Budgetry project which i am developing in #javascript.|[Day 18](#day-18) **1/11/18**|Learnt and implemented the concept of Actuator, YAML, Basic of profiles, and type safe configuration in spring boot application|
+[Day 19](#day-19) **6/11/18**|Implemented Integration testing and unit testing in my web application|
 ----------
 <a name="day-1"></a>
 ### Day 1: August 18, 2018 
@@ -242,6 +243,19 @@ Implemented how to clear HTML Fields, how to use querySelectorAll, how to conver
 
 **Details**:
 Learnt and implemented the concept of Actuator, YAML, Basic of profiles, and type safe configuration in spring boot application
+
+**Link to work**: [MyGithubProject](https://github.com/decodingjourney/Spring-Boot-Learning-Step-By-Step/tree/master/Rest-Api-Spring-Boot)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-19"></a>
+### Day 19: November 6, 2018 
+
+**Today's Focus**: Implemented Integration testing and unit testing in my web application
+
+**Details**:
+Implemented Integration testing and unit testing in my web application
 
 **Link to work**: [MyGithubProject](https://github.com/decodingjourney/Spring-Boot-Learning-Step-By-Step/tree/master/Rest-Api-Spring-Boot)
 
